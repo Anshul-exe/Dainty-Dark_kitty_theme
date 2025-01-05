@@ -46,6 +46,7 @@ Feel free to modify this theme to fit your personal preferences. You can change 
 
 ## Contributing
 
+This is inspired by the [coolnight](https://github.com/josean-dev/dev-environment-files/blob/main/.config/alacritty/themes/themes/coolnight.toml) theme in alacritty
 If you would like to contribute improvements or other features to this theme, please fork the repository and submit a pull request. Make sure to include a description of the changes and test your modifications.
 
 ## Acknowledgements
