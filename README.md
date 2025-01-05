@@ -5,7 +5,7 @@ A sleek and modern color theme for the Kitty terminal inspired by minimalism and
 ## Preview
 
 ![Theme Preview](./screenshots/bat.png)
-![colors](./screenshots/colors.png)
+![colors](./screenshots/lesgo.png)
 ![colorss](./screenshots/colorss.png)
 ![htop](./screenshots/htop.png)
 
